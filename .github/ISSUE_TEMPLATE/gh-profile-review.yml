@@ -2,6 +2,8 @@ name: GitHub Profile Review
 description: Please review my GitHub profile on a livestream
 title: "[REVIEW] <your-username>"
 labels: [gh profile review, live stream review]
+assignees:
+- anshumanjadiya1102
 body:
   - type: input
     id: link
