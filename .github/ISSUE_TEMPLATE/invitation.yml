@@ -1,4 +1,4 @@
-name: Invitation to the DEVs Dungeon GitHub Community Organization
+name: Invitation to the Drive-for-Java GitHub Community Organization
 description: I would like to be part of the developers community
 title: "Please invite me to the DEVs Dungeon GitHub Community Organization"
 labels: [invite me to the organisation]
@@ -27,6 +27,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        Join our Discord Community [here](https://discord.gg/ceMXzhfaka) to interact with 5k+ Developers from across the world!
-        Follow our LinkedIn Page [here](https://www.linkedin.com/company/devs-dungeon) for Internships, Jobs, Workshops, Events updates! 
-        Feel free to check out our Bio Link [here](https://devs-dungeon.github.io/bio/) 🔥
+        Join our Discord Community [here](https://discord.gg/68mtBJqRgs) to interact with 5k+ Developers from across the world!
+        Feel free to check out our Bio Link [here](https://Drive-for-Java.github.io/) 🔥
