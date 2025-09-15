@@ -11,3 +11,9 @@ body:
     validations:
       required: true
   - type: markdown
+    attributes:
+      value: |
+        Join our Discord Community [
+        Follow us on LinkedIn
+        Follow us on Twitter
+        Feel free to check out other cool repositories of the DEVs Dungeon Community 
