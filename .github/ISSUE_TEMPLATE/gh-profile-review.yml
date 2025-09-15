@@ -1,0 +1,13 @@
+name: GitHub Profile Review
+description: Please review my GitHub profile on a livestream
+title: "[REVIEW] <your-username>"
+labels: [gh profile review, live stream review]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: GitHub Profile Link
+      placeholder: https://github.com/<your-username>
+    validations:
+      required: true
+  - type: markdown
